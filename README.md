@@ -1,11 +1,15 @@
 <h1 align="center">Valiant Codecraft Man</h1> 
 <h3 align="center"> Nothing is gonna change my Love for U,
 <br>
+<br>
 In lines of code, my passion shines through.
+<br>
 <br>
 With every bug fixed and feature anew,
 <br>
+<br>
 Innovation and heart in all that I do.</h3>
+<br>
 <br>
 <table align="center">
   <tr>
