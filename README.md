@@ -4,48 +4,6 @@
   <a href="https://github.com/zinping?tab=achievements"><img src="https://github-profile-trophy.vercel.app/?username=zinping&theme=onestar&no-frame=true&column=3&row=2"  width="38%" alt="@zinping's trophy stats"/></a>
 </p>
 <table align="center">
-<tr>
-    <td align="center" width="90">
-      <img src="https://github.com/kroim/profile/blob/master/icons/icon_nft.png?raw=true" height="45" >
-      <br>NFT
-    </td>
-    <td align="center" width="90">
-      <img src="https://github.com/kroim/profile/blob/master/icons/icon_defi.png?raw=true" height="45" >
-      <br>DeFi
-    </td>
-    <td align="center" width="90">
-      <img src="https://s2.coinmarketcap.com/static/img/coins/64x64/1027.png" width="48" height="48" alt="Ethereum" />
-      <br>Ethereum
-    </td>
-    <td align="center" width="90">
-      <img src="https://s2.coinmarketcap.com/static/img/coins/64x64/5426.png" width="48" height="48" style="border-radius: 15px;" alt="Solana" />
-      <br>Solana
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=solidity" width="45" height="45" alt="Solidity" />
-      <br>Solidity
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=rust" width="45" height="45" alt="Rust" />
-      <br>Rust
-    </td>
-    <td align="center" width="90">
-      <img src="./anchor.png" alt="Anchor" width="55" height="55" />
-      <br>Anchor
-    </td>
-    <td align="center" width="90">
-      <img src="./foundry.png" alt="icon" width="55" height="55" />
-      <br>Foundry
-    </td>
-    <td align="center" width="90">
-      <img src="./hardhat.svg" alt="HardHat" width="55" height="55" />
-      <br>HardHat
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=rails" width="45" height="45" alt="rails" />
-      <br>Rails
-    </td>
-  </tr>
   <tr>
     <td align="center" width="90">
       <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="55" height="55" />
@@ -76,19 +34,35 @@
       <br>Tailwind
     </td>
     <td align="center" width="90">
-        <img src="https://techstack-generator.vercel.app/graphql-icon.svg" width="48" height="48" alt="GraphQL" />
-      <br>GraphQL
-    </td>
-    <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=threejs" width="45" height="45" alt="Three.js" />
       <br>Three.js
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="90">
+        <img src="https://techstack-generator.vercel.app/graphql-icon.svg" width="48" height="48" alt="GraphQL" />
+      <br>GraphQL
     </td>
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=androidstudio" width="45" height="45" alt="AndroidStudio" />
       <br>Android
     </td>
-  </tr>
-  <tr>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=rust" width="45" height="45" alt="Rust" />
+      <br>Rust
+    </td>
+    <td align="center" width="90">
+      <img src="./anchor.png" alt="Anchor" width="55" height="55" />
+      <br>Anchor
+    </td>
+    <td align="center" width="90">
+      <img src="./hardhat.svg" alt="HardHat" width="55" height="55" />
+      <br>HardHat
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=rails" width="45" height="45" alt="rails" />
+      <br>Rails
+    </td>
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=ruby" width="45" height="45" alt="Ruby" />
       <br>Ruby
@@ -97,6 +71,8 @@
       <img src="https://skillicons.dev/icons?i=go" title="GoLang" alt="GoLang " width="45" height="45"/>
       <br>GoLang
     </td>
+  </tr>
+  <tr>
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=express" width="45" height="45" alt="Express" />
       <br>Express
