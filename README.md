@@ -1,6 +1,12 @@
 <h1 align="center">Valiant Codecraft Man</h1> 
-<h3 align="center"> Nothing is gonna change my Love for U </h3>
-
+<h3 align="center"> Nothing is gonna change my Love for U.
+<br>
+In code and craft, my passion stays true.
+<br>
+With every line, my skills expand,
+<br>
+A valiant coder, a Codecraft Man. </h3>
+<br>
 <table align="center">
   <tr>
     <td align="center" width="90">
@@ -111,7 +117,5 @@
   <img src="https://github.com/zinping/zinping/blob/master/mainboard_me.png" alt="Profile Readme Generator" data-canonical-src="https://profile-readme-generator.com/assets/app.png" style="max-width: 100%;" width="900">
 </p> -->
 <div align="left">
-
-
 
 <br clear ="both" >
