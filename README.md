@@ -1,4 +1,4 @@
-<h1 align="center">🗡Valiant Codecraft Man</h1> 
+<h1 align="center">🗡Valiant Codecraft Wizard</h1> 
 <h3 align="center"> Nothing is gonna change my Love for U,
 <br>
 <br>
